@@ -29,5 +29,5 @@
      - ```git config --global user.password "Enter your password" ```
   4. After the configuration, git was ready to use from the terminal.
   
-  * Reference
+  * [Reference](https://git-scm.com/doc)
   
